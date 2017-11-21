@@ -26,6 +26,7 @@
         <TextBlock x:Name="Display" HorizontalAlignment="Left" Margin="0,99,-0.4,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="494" TextAlignment="Center" FontSize="36" Background="Gainsboro"  />
         <Button x:Name="Clear" Content="C" HorizontalAlignment="Left" Margin="400,149,-0.4,0" VerticalAlignment="Top" Width="94" Height="50" Click="Clear_Click" Background="White"/>
 
+        
     </Grid>
     
     
